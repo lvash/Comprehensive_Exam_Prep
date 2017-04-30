@@ -1,0 +1,20 @@
+Questions for dissertation:
+
+QII
+- Does species richness differ in sites with disease compared to without? Does it change after ‘outbreak’ (increased prevalence)?
+- Are certain species associated with diseased sites?
+- Does viral load differ between positive sites?
+- Are there genetic diversity differences?
+
+QIII
+- Can we detect ranavirus in the environment (eDNA)
+- Can modeling better elucidate transmission?
+- Trade off in virulence experiment? 
+- Experimental evolution with bacteriophages (host switching?) – Dr. Goodnight; Brent/Melissa; Brandon
+- Transmission probabilities between species: network analysis?
+
+QIV
+-	Does mortality/fitness change with multiple stressors and at different life stages?
+-	If there are any that are asymptomatic – are they differentially expressing genes?
+-	Are the survivors differentially expressing genes?
+-	There are adaptive alleles: allelic shifts as summer passes/infection prevalence increases?

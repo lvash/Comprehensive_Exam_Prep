@@ -1,0 +1,13 @@
+Comp prep info: 
+
+A viral species was formally defined by van Regenmortel as ‘.a polythetic class of viruses that constitutes a replicating lineage and occupies a particular ecological niche’ (van Regenmortel 1990).
+
+The family Iridoviridae currently contains five genera, two of which infect invertebrates (Iridovirus and Chloriridovirus) and three that infect only ectother- mic vertebrates (Lymphocystivirus, Megalocytivirus, and Ranavirus; Lymphocystiviruses and megalocytiviruses only infect fish, whereas, as indicated above, ranaviruses target fish, amphibians, and reptiles
+
+As discussed in Brunner et al. (2015), some hosts function as reser- voirs for the virus and maintain subclinical infections resulting in low population prevalence, while other species serve as amplification hosts and initiate outbreaks.
+
+For example, Brenes et al. (2014a, b) conservatively declared a positive result if the Ct value was less than the lower bound of a 95 % confidence interval at a predicted virus quantity of zero. 
+
+ Caution must be exercised when interpreting high Ct values (e.g., Ct values >35), because they can represent amplification or fluorescence artifacts, or cross-contamination (Caraguel et al. 2011).
+ 
+ Several validated methods that incorporate automated, semi-automated, and manual homogenization of tissues have been described and compare the extraction efficiencies of ranavirus from tissues (Whittington and Steiner 1993; Rimmer et al. 2012). Extraction efficiency is especially important if viral loads are low in tissues, such as in subclinical infections.
