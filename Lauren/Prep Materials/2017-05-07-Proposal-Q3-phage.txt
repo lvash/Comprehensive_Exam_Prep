@@ -1,0 +1,53 @@
+2017-05-07-Proposal-Q3-Phage
+
+experiment ideas: 
+populations act as experimental replicates
+freeze every couple of generations
+what is the path that it took?
+
+DNA versus RNA: 6 DNA phages and 6 RNA phages
+8 double-stranded DNA: Mu, T5, T7, u80, lambda, R17, MS2, P2
+8 RNA: Enterobacteria phages MS2 and GA, F1 and QB, M, and Pseudomonas phages Φ6, PRR1, PP7 
+RNA phylogeny (Krishnamurthy et al. 2016)
+DNA: choose phylogenetic pairs and distributed across slope (log mortality rate vs log(multiplication rate))
+
+multiple time points: 24; 48; 72? 12; 24; 48?
+multiple phages: can we get them to shift along trade off line?
+at the end, measure how long they can survive outside the cell? (decay rate)
+multiple bacteria hosts
+
+many populations to observe convergent substitutions: or are multiple proteins altered to produce same trade-off? 
+
+Brandons paper:
+
+Life-history theory predicts that traits for survival and reproduction cannot be simultaneously maximized in evolving populations. selection for improved between-host survival during transmission may lead to evolution of decreased within-host reproduction
+
+we observed that delayed transmission selected for improved extracellular survival, which traded-off with lowered viral fecundity (slower exponential population growth and smaller mean plaque size); improved virion stability was gained via independent mutations in various VSV structural proteins.
+
+RNA viruses can evolve different molecular solutions for enhanced survival despite their limited genetic architecture, but suffer generalized reproductive trade-offs that limit overall fitness gains.
+
+other references: 
+Stearns 1989
+Ewald 1987, 1993, 1994
+ogbunugafor et al 2013
+De Paepe and Taddei 2006
+Elena 2001
+Charnov 1997 (trade offs; Nature)
+
+I would like to combine the experimental design of De Paepe and Taddei 2006 and Wasik et al. 2014 to a) determine if a survival-reproduction trade-off still remains in multiple species of phages after altering the timing-of-transmission and b) to infer phenotype-genotype associations. 
+
+Phage stability is very dependent on salt concentration and osmotic pressure [19]; so we used the standard high-salt LB broth instead of any defined medium that could favor one phage over another.
+
+Questions: 
+Does the phylogenetic closeness of ssRNA phages confound things?
+Is 24 h cell culture passage 'ordinary' for bacteriophages? Does it vary?
+How often should fitness characteristics (decay rate) be measured?
+ 
+Brandons input:
+- Test ecological question: two populations; saw a host every 24 hours; every 48 hours – survive outside of a host; is it evolvable – what are the trade offs? 
+- Evolvable – response to selection? Distribution of phenotypes to select upon? (no variation in number of heads; can’t select on); read up  
+- Phages – niche breadth/evolution of virulence work; learn biology; how does host density (no evolutionary energy into maintenance) – when is this favored in my system?
+- Design experimental evolution: choice between survival and reproduction – environment makes you choose to do one well; can you tweak 
+
+
+

@@ -18,3 +18,16 @@ QIV
 -	If there are any that are asymptomatic – are they differentially expressing genes?
 -	Are the survivors differentially expressing genes?
 -	There are adaptive alleles: allelic shifts as summer passes/infection prevalence increases?
+
+
+QII background
+- Genetic diversity in general? In system?
+- Disease severity/mortality and viral load are correlated (find reference)
+- Variance in virulence
+- Most susceptible species (wood frogs)?
+- How does question relate to big picture? How does approach relate to question?
+- Brenes 2013: community-level mortality was higher if it was composed only of one highly susceptible species (p88)
+“Hotspot versus dilution” 
+
+QIII
+- Does ranavirus have same 'efficiency' across species?

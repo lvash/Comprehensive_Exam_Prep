@@ -1,0 +1,73 @@
+
+Vocab words for comps: 
+
+Disease ecology
+curse of the pharaoh
+obligate
+facultative
+opportunistic
+epidemiology
+hotspot vs dilution
+
+
+Evolution
+hardy-weinberg equilibrium
+natural selection
+allele/locus
+
+
+DNA vs RNA virus
+Virulence
+Ro
+niche breadth
+virus/virion
+capsid
+titer
+curse of the pharaoh (Bonhoeffer et al. 1996)
+plasmid
+phage
+latency period
+
+
+Amphibian orders/families/genera/species
+Xenopus
+salamanders
+
+
+Genomics
+Population genetics (Sam's 6 papers)
+pleiotropy
+
+
+Phylogenetics
+haplotype
+viral phylogeny
+
+
+Experiment
+factorial
+experimental evolution
+common garden
+
+Hypothesis vs prediction
+hypothetico-deducto
+induction vs deduction
+p-value 
+
+Methods
+qPCR
+sequencing
+DNA extraction
+network theory
+modeling (glm, lm, gams, mixed effects)
+distributions (gaussian, binomial, beta, poisson)
+
+Ecology
+founder events
+
+
+
+
+
+
+
