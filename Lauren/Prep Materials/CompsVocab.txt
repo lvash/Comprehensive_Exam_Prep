@@ -10,10 +10,11 @@ epidemiology
 hotspot vs dilution
 
 
-Evolution
+Evolution (definition)
 hardy-weinberg equilibrium
 natural selection
 allele/locus
+pleitropy
 
 
 DNA vs RNA virus
@@ -24,9 +25,18 @@ virus/virion
 capsid
 titer
 curse of the pharaoh (Bonhoeffer et al. 1996)
-plasmid
+plasmid (F plasmid for E. coli)
 phage
 latency period
+strains vs species
+SIR
+why is creating differential equations in R more flexible than EpiModel?
+plaque assays
+E. coli
+lytic vs lysogenic
+lysed cell
+monolayer
+T even vs T odd phages
 
 
 Amphibian orders/families/genera/species
@@ -37,17 +47,22 @@ salamanders
 Genomics
 Population genetics (Sam's 6 papers)
 pleiotropy
+soft vs hard selective sweeps
 
 
 Phylogenetics
 haplotype
 viral phylogeny
+Ranavirus taxonomic info
+Phage taxonomic info
 
 
 Experiment
 factorial
 experimental evolution
 common garden
+reciprocal transplant
+rarefaction
 
 Hypothesis vs prediction
 hypothetico-deducto
@@ -62,12 +77,43 @@ network theory
 modeling (glm, lm, gams, mixed effects)
 distributions (gaussian, binomial, beta, poisson)
 
+
+Statistics
+permutation
+ANOVA
+logistic regression
+NMDS
+
+
+Theory
+life history
+trade off
+
 Ecology
+Lotka-Volterra assumptions/equation
+logistic growth equation/assumptions
+exponential growth equation/assumptions
+Hardy-Weinburg equilibrium equation/assumptions
+Natural selection definition/requirements
 founder events
 
-
-
-
+Genomics
+contig
+lane effects
+genome
+short paired-end reads
+phred quality
+reads
+Poly(A) selection
+cDNA
+mRNA
+differential gene expression
+SNP
+population genomics
+posterior probability
+reads2snps
+genotype 
+basepair
 
 
 
