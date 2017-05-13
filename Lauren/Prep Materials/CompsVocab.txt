@@ -14,7 +14,9 @@ Evolution (definition)
 hardy-weinberg equilibrium
 natural selection
 allele/locus
-pleitropy
+pleiotropy
+fitness peak
+adaptive landscape
 
 
 DNA vs RNA virus
@@ -37,6 +39,7 @@ lytic vs lysogenic
 lysed cell
 monolayer
 T even vs T odd phages
+understand tolerance vs resistance (FIGURE IN PROPOSAL TOO)
 
 
 Amphibian orders/families/genera/species
@@ -64,10 +67,12 @@ common garden
 reciprocal transplant
 rarefaction
 
+
 Hypothesis vs prediction
 hypothetico-deducto
 induction vs deduction
 p-value 
+
 
 Methods
 qPCR
@@ -83,11 +88,13 @@ permutation
 ANOVA
 logistic regression
 NMDS
+ordinary differential equations
 
 
 Theory
 life history
 trade off
+
 
 Ecology
 Lotka-Volterra assumptions/equation
@@ -96,6 +103,7 @@ exponential growth equation/assumptions
 Hardy-Weinburg equilibrium equation/assumptions
 Natural selection definition/requirements
 founder events
+
 
 Genomics
 contig

@@ -49,5 +49,8 @@ Brandons input:
 - Phages – niche breadth/evolution of virulence work; learn biology; how does host density (no evolutionary energy into maintenance) – when is this favored in my system?
 - Design experimental evolution: choice between survival and reproduction – environment makes you choose to do one well; can you tweak 
 
+PHAGE INFO:
 
+PhiX174 belongs to the Microviridae family of bacteriophages (12). It is a small, icosahedral, nontailed virus with a circular single-stranded DNA
+the replication of PhiX174 DNA can be supported by different Escherichia coli strains and distantly related bacteria, such as Pseudomonas aeruginosa (28). These findings imply that the limiting step for PhiX174 infection is entry and not replication or lysis. The commonly used PhiX174 host is the laboratory-derived strain E. coli C, which has a specific rough lipopolysaccharide (LPS) recognized as the receptor (13).
 
