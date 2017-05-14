@@ -17,6 +17,7 @@ allele/locus
 pleiotropy
 fitness peak
 adaptive landscape
+local adaptation
 
 
 DNA vs RNA virus
